@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Practise\SpringMVCTest\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3755605638.index
+\SpringMVCTest\src\main\java
+D:\Practise\SpringMVCTest\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3805644906.index
+\SpringMVCTest\src\main\resources

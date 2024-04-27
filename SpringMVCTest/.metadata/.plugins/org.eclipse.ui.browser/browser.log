@@ -1,0 +1,5 @@
+
+Apr 19, 2024 15:30:20.81 NEW SESSION
+Apr 19, 2024 15:30:20.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 19, 2024 15:30:20.83 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).
+Apr 19, 2024 16:23:55.99 [176564:179336:0419/162355.993:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
